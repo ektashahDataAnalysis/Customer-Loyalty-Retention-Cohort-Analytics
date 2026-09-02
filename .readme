@@ -1,0 +1,234 @@
+# Customer Loyalty, Retention & Cohort Analytics
+
+## 📊 Overview
+
+A comprehensive **Power BI customer analytics dashboard** designed to provide 360° insights into customer loyalty, retention, cohort behavior, churn, RFM segmentation, customer value, revenue, and product performance.
+
+The project goes beyond basic sales reporting by connecting **customer behavior with revenue and retention outcomes**, helping identify valuable customers, repeat-purchase patterns, churn behavior, cohort performance, and product contribution.
+
+---
+
+## 🎯 Business Objectives
+
+The dashboard was built to answer key business questions:
+
+* How large is the customer base?
+* How many customers are returning?
+* How much revenue comes from repeat customers?
+* How are new and repeat customers changing over time?
+* Which customer segments generate the most value?
+* Which customers show strong engagement?
+* Where is customer churn occurring?
+* How does customer value vary across the customer base?
+* How do different customer cohorts behave over time?
+* Which products contribute most to revenue and orders?
+* How does product performance differ between new and repeat customers?
+
+---
+
+## 📑 Dashboard Pages
+
+### 1. Executive Dashboard
+
+Provides a high-level overview of business and customer performance.
+
+**Key analysis includes:**
+
+* Total Customers
+* Repeat Customers
+* Total Orders
+* Total Revenue
+* Repeat Revenue
+* Repeat Revenue %
+* Average Order Value
+* Active Customer analysis
+* Revenue trends
+* New vs. Repeat Customers
+* New vs. Repeat Revenue
+* Customer segmentation
+* RFM-based customer analysis
+* Customer movement analysis
+
+---
+
+### 2. Customer Analytics
+
+Focuses on customer behavior, engagement, value, and retention.
+
+**Key analysis includes:**
+
+* Customer churn
+* Churn trends
+* Active customer analysis
+* Customer lifetime revenue
+* Average customer lifetime revenue
+* Repeat rate
+* Customer value
+* Recency and purchasing behavior
+* RFM segmentation
+* Customer-level analysis
+
+---
+
+### 3. Cohort Analysis
+
+Analyzes customers based on their first purchase period.
+
+**Key analysis includes:**
+
+* Customer acquisition cohorts
+* First purchase period
+* Cohort periods
+* Cohort customer counts
+* Retention behavior across cohorts
+
+Cohort analysis helps distinguish **customer acquisition growth from actual customer retention**.
+
+---
+
+### 4. Products Overview
+
+Connects product performance with customer behavior.
+
+**Key analysis includes:**
+
+* Product orders
+* Product revenue
+* Product contribution
+* New vs. repeat revenue
+* Product-level customer analysis
+* Product performance by customer segment
+
+---
+
+## 🔍 Analytical Areas
+
+This project brings together multiple customer analytics concepts:
+
+### Customer Loyalty
+
+Measures repeat purchasing behavior and identifies patterns associated with customer loyalty.
+
+### Retention
+
+Analyzes repeat customers and repeat revenue to understand the strength of customer relationships over time.
+
+### Churn
+
+Examines customer loss and churn trends to identify areas where retention efforts may be needed.
+
+### RFM Segmentation
+
+Customers are analyzed using:
+
+* **Recency** — how recently they purchased
+* **Frequency** — how often they purchase
+* **Monetary Value** — how much revenue they generate
+
+### Cohort Analysis
+
+Customers are grouped according to their first purchase period to evaluate how customer groups behave over subsequent periods.
+
+### Customer Value
+
+Analyzes customer-level revenue and lifetime value to distinguish high-value customers from lower-value segments.
+
+### Product Performance
+
+Evaluates products not only by sales but also through their relationship with new and repeat customer revenue.
+
+---
+
+## 📈 Power BI Skills Demonstrated
+
+This project demonstrates practical experience with:
+
+* Power BI dashboard development
+* Data modeling
+* DAX measures
+* Distinct customer calculations
+* KPI development
+* Customer segmentation
+* RFM analysis
+* Retention analysis
+* Churn analysis
+* Cohort analysis
+* Time-based analysis
+* Slicers
+* Cross-filtering
+* Visual interactions
+* Interactive tables
+* Executive dashboard design
+* Custom report theming
+
+---
+
+## 🧩 Report Design
+
+The dashboard follows a layered analytical approach:
+
+**Executive Overview → Customer Analytics → Cohort Analysis → Product Analytics**
+
+This allows users to start with high-level KPIs and progressively investigate the underlying customer and product behavior.
+
+---
+
+## 🛠️ Tools & Technologies
+
+* **Microsoft Power BI**
+* **DAX**
+* **Power BI Data Modeling**
+* **Customer Analytics**
+* **RFM Segmentation**
+* **Cohort Analysis**
+* **Retention & Churn Analytics**
+* **Data Visualization**
+
+---
+
+## 📂 Repository Contents
+
+```text
+customer-loyalty-retention-cohort-analytics/
+│
+├── Customer Loyalty & Retention Analytics Dashboard.pbix
+├── README.md
+└── screenshots/
+    ├── executive-dashboard.png
+    ├── customer-analytics.png
+    ├── cohort-analysis.png
+    └── products-overview.png
+```
+
+---
+
+## 🚀 How to Explore
+
+1. Download the `.pbix` file.
+2. Open it using **Power BI Desktop**.
+3. Start with the Executive Dashboard.
+4. Use the available slicers to explore different segments and periods.
+5. Select visuals to investigate cross-filtering and interactions.
+6. Navigate through the Customer, Cohort, and Product pages for deeper analysis.
+
+---
+
+## ⚠️ Data & Usage
+
+This repository is intended as a **portfolio and demonstration project**.
+
+The dashboard, PBIX file, data model, DAX measures, visual design, and associated materials represent original project work.
+
+### Copyright
+
+**© 2026 Ekta Shah. All rights reserved.**
+
+No license is granted for copying, reproducing, modifying, redistributing, or presenting this project or substantial portions of it as another person's work without permission.
+
+---
+
+## 👤 Author
+
+**Ekta Shah**
+
+**Data Analytics | Power BI | Customer & Retention Analytics**
